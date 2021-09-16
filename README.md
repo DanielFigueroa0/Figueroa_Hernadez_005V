@@ -1,1 +1,8 @@
-# Proyecto_progra_app2
+Integrantes:
+  Daniel Figueroa
+  Priscila Hernández
+
+Nombre del proyecto:
+  xxxxxx
+  
+Informacion adicional:

@@ -3,6 +3,6 @@ Integrantes:
   Priscila Hernández
 
 Nombre del proyecto:
-  xxxxxx
+  Ha uru app
   
 Informacion adicional:

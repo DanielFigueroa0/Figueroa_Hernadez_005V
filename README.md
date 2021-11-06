@@ -11,6 +11,10 @@ Informacion adicional primera entrega:
   - Page 3: page3
 
 
+
+
+
+
 Informacion segunda entrega:
   
   Estimada profesora, para el el avance de esta entrega es necesario instalar por linea de comando lo siguiente:

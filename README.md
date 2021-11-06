@@ -5,7 +5,7 @@ Integrantes:
 Nombre del proyecto:
   Ha uru app
   
-Informacion adicional:
+Informacion adicional primera entrega:
   - Page 1: principal
-  - Page 2: page2
+  - Page 2: estres
   - Page 3: page3

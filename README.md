@@ -18,8 +18,8 @@ Informacion segunda entrega:
   Para FIREBASE:
   
   -	>npm install firebase @angular/fire --save
-	- >ng add @angular/fire 
-	- >npm i firebase
+  -	>ng add @angular/fire 
+  -	>npm i firebase
 
 
 

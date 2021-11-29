@@ -35,6 +35,8 @@ Informacion segunda entrega:
 Con todo instalado ya se podra levantar el servidor correspondiente y se podra navegar por los pages implementados y siempre que se haya registrado y logueado en la aplicacion y se compruebe que se cargue el usuario nuevo en la pagina web del firebase.
 
 
+
+
 Informacion Tercera entrega:
 Se realiza vincula el proyecto de angular con android studio agregando las carpetas necesaras con los siguientes comandos:
   - >ionic capacitor add android -- crear carpeta android
